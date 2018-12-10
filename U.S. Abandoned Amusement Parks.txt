@@ -1,6 +1,0 @@
-Website: https://humboldtstate.maps.arcgis.com/apps/MapSeries/index.html?appid=61178c26a44d4d4da0131472fb4005fc
-
-Social Website: https://arcg.is/0jeaOD
-
-
-iframe: <iframe width="100%" height="800px" src="https://humboldtstate.maps.arcgis.com/apps/MapSeries/index.html?appid=61178c26a44d4d4da0131472fb4005fc" frameborder="0" scrolling="no"></iframe>
